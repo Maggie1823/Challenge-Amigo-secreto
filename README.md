@@ -1,8 +1,8 @@
-#🏱 Amigo Secreto
+# 🏱 Amigo Secreto
 
-######Este es un proyecto simple hecho con **HTML, CSS y JavaScript** que permite crear una lista de participantes y sortear al azar un **"Amigo secreto"** .Parde del curso de Practicando Lógica de Programación: Challenge Amigo secreto de **Alura Latam**.
+###### Este es un proyecto simple hecho con *HTML, CSS y JavaScript* que permite crear una lista de participantes y sortear al azar un *"Amigo secreto"* .Parde del curso de Practicando Lógica de Programación: Challenge Amigo secreto de *Alura Latam*.
 
-###🚀 Funcionalidades
+### 🚀 Funcionalidades
 
 - Agregar nombres a una lista desde un campo de entrada.
 
@@ -14,7 +14,7 @@
 
 - Validación para asegurar que haya al menos 2 participantes antes de sortear.
 
-###💠 Tecnologías usadas
+### 💠 Tecnologías usadas
 
 - HTML5
 
@@ -22,7 +22,7 @@
 
 - JavaScript (vanilla)
 
-###📂 Estructura del proyecto
+### 📂 Estructura del proyecto
 ```
 amigo-secreto/
 │
@@ -37,7 +37,7 @@ amigo-secreto/
 
 
 
-####💡 Ideas para mejoras
+#### 💡 Ideas para mejoras
 
 -  Permitir que cada participante tenga un amigo secreto distinto (emparejamiento sin repetición).
 
@@ -46,7 +46,7 @@ amigo-secreto/
 - Guardar la lista en localStorage para mantenerla al recargar.
 
 
-####Desarrollado por Maggie18 y Alura Latam.
+#### Desarrollado por Maggie18 y Alura Latam.
 
-¡Gracias por visitar el proyecto!
+*¡Gracias por visitar el proyecto!*
 
