@@ -55,3 +55,4 @@ amigo-secreto/
 
 *¡Gracias por visitar el proyecto!*
 
+<img width="300" height="373" alt="frame" src="https://github.com/user-attachments/assets/04bbd5ef-b3c7-4767-9d0d-19dc9e1b79f7" />
