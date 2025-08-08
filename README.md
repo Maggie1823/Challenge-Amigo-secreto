@@ -34,6 +34,11 @@ amigo-secreto/
 │   └── play_circle_outline.png
 └── README.md         # Descripción del proyecto (este archivo)
 ```
+<img width="1876" height="968" alt="Captura de pantalla 2025-08-08 144903" src="https://github.com/user-attachments/assets/ed285923-33f0-4957-bcc2-a8d77c009b92" />
+<img width="447" height="286" alt="Captura de pantalla 2025-08-08 144936" src="https://github.com/user-attachments/assets/59172605-5753-4f90-ae6c-2f5c1e99d6ab" />
+<img width="448" height="667" alt="Captura de pantalla 2025-08-08 144959" src="https://github.com/user-attachments/assets/81c0004f-ef26-4623-80e6-f46510f52b22" />
+<img width="647" height="624" alt="Captura de pantalla 2025-08-08 145032" src="https://github.com/user-attachments/assets/a1fff38a-0225-4f8e-a02e-9019b606a028" />
+<img width="1118" height="859" alt="Captura de pantalla 2025-08-08 145113" src="https://github.com/user-attachments/assets/4fe4cd9d-1f0b-41e5-a54d-c1cb349840fb" />
 
 
 
